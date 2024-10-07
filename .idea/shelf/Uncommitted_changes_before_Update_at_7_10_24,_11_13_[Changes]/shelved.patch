@@ -1,0 +1,144 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"af799a0a-7a89-4ba9-a73e-9abe5c15a385\" name=\"Changes\" comment=\"\">\n      <change afterPath=\"$PROJECT_DIR$/GUI/__init__.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/GUI/main_window.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/GUI/styles.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/GUI/widgets.py\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/main.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/main.py\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Python Script\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 5\n}</component>\n  <component name=\"ProjectId\" id=\"2lVR08YonRA0AGXSNhQknwzx2MS\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"Python.main.executor\": \"Run\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"git-widget-placeholder\": \"master\",\n    \"ignore.virus.scanning.warn.message\": \"true\",\n    \"node.js.detected.package.eslint\": \"true\",\n    \"node.js.detected.package.tslint\": \"true\",\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\n    \"nodejs_package_manager_path\": \"npm\",\n    \"vue.rearranger.settings.migration\": \"true\"\n  }\n}]]></component>\n  <component name=\"RunManager\">\n    <configuration name=\"main\" type=\"PythonConfigurationType\" factoryName=\"Python\" nameIsGenerated=\"true\">\n      <module name=\"ExpenseTracking\" />\n      <option name=\"ENV_FILES\" value=\"\" />\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\n      <option name=\"PARENT_ENVS\" value=\"true\" />\n      <envs>\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\n      </envs>\n      <option name=\"SDK_HOME\" value=\"\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\n      <EXTENSION ID=\"PythonCoverageRunConfigurationExtension\" runner=\"coverage.py\" />\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/main.py\" />\n      <option name=\"PARAMETERS\" value=\"\" />\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\n      <option name=\"MODULE_MODE\" value=\"false\" />\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\n      <option name=\"INPUT_FILE\" value=\"\" />\n      <method v=\"2\" />\n    </configuration>\n  </component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-PY-242.21829.153\" />\n        <option value=\"bundled-python-sdk-464836ebc622-b74155a9e76b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.21829.153\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"af799a0a-7a89-4ba9-a73e-9abe5c15a385\" name=\"Changes\" comment=\"\" />\n      <created>1725263031921</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1725263031921</updated>\n      <workItem from=\"1725263033859\" duration=\"37000\" />\n      <workItem from=\"1725263098927\" duration=\"1784000\" />\n    </task>\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"com.intellij.coverage.CoverageDataManagerImpl\">\n    <SUITE FILE_PATH=\"coverage/ExpenseTracking$main.coverage\" NAME=\"main Coverage Results\" MODIFIED=\"1725263123144\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision de370ea65624905416fb42f0df5e766b97ee0646)
++++ b/.idea/workspace.xml	(date 1728274192288)
+@@ -5,12 +5,12 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="af799a0a-7a89-4ba9-a73e-9abe5c15a385" name="Changes" comment="">
+-      <change afterPath="$PROJECT_DIR$/GUI/__init__.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/GUI/main_window.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/GUI/styles.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/GUI/widgets.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/GUI/assets/accounting.png" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/GUI/assets/analytics.png" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/GUI/assets/debt.png" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/GUI/testingMacBook.py" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/GUI/styles.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/styles.py" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -31,14 +31,18 @@
+   &quot;associatedIndex&quot;: 5
+ }</component>
+   <component name="ProjectId" id="2lVR08YonRA0AGXSNhQknwzx2MS" />
+-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
++  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
++    <ConfirmationsSetting value="2" id="Add" />
++  </component>
+   <component name="ProjectViewState">
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+   <component name="PropertiesComponent"><![CDATA[{
+   "keyToString": {
++    "ASKED_ADD_EXTERNAL_FILES": "true",
+     "Python.main.executor": "Run",
++    "Python.testingMacBook.executor": "Run",
+     "RunOnceActivity.ShowReadmeOnStart": "true",
+     "git-widget-placeholder": "master",
+     "ignore.virus.scanning.warn.message": "true",
+@@ -47,6 +51,7 @@
+     "node.js.selected.package.eslint": "(autodetect)",
+     "node.js.selected.package.tslint": "(autodetect)",
+     "nodejs_package_manager_path": "npm",
++    "settings.editor.selected.configurable": "advanced.settings",
+     "vue.rearranger.settings.migration": "true"
+   }
+ }]]></component>
+@@ -78,8 +83,8 @@
+   <component name="SharedIndexes">
+     <attachedChunks>
+       <set>
+-        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-PY-242.21829.153" />
+-        <option value="bundled-python-sdk-464836ebc622-b74155a9e76b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.21829.153" />
++        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18034.82" />
++        <option value="bundled-python-sdk-975db3bf15a3-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18034.82" />
+       </set>
+     </attachedChunks>
+   </component>
+@@ -93,13 +98,18 @@
+       <updated>1725263031921</updated>
+       <workItem from="1725263033859" duration="37000" />
+       <workItem from="1725263098927" duration="1784000" />
++      <workItem from="1728205408839" duration="5812000" />
+     </task>
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="3" />
+   </component>
++  <component name="VcsManagerConfiguration">
++    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
++  </component>
+   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+-    <SUITE FILE_PATH="coverage/ExpenseTracking$main.coverage" NAME="main Coverage Results" MODIFIED="1725263123144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
++    <SUITE FILE_PATH="coverage/ExpenseTracking$main.coverage" NAME="main Coverage Results" MODIFIED="1728205909708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
++    <SUITE FILE_PATH="coverage/ExpenseTracking$testingMacBook.coverage" NAME="testingMacBook Coverage Results" MODIFIED="1728208073335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: GUI/testingMacBook.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/GUI/testingMacBook.py b/GUI/testingMacBook.py
+new file mode 100644
+--- /dev/null	(date 1728208407448)
++++ b/GUI/testingMacBook.py	(date 1728208407448)
+@@ -0,0 +1,46 @@
++import customtkinter
++from styles import primary_color, option_button_color
++from PIL import Image
++
++
++class OptionsButtonFrame(customtkinter.CTkFrame):
++    def __init__(self, master, button_names, image_paths):
++        super().__init__(master, fg_color="transparent")
++        self.button_names = button_names
++        self.image_paths = image_paths
++        self.buttons = []
++        images = []
++
++        for i in self.image_paths:
++            image = customtkinter.CTkImage(light_image=Image.open(image_paths[i]),
++                                           dark_image=Image.open(image_paths[i]),
++                                           size=(40,40))
++            images.append(image)
++
++
++        for i, name in enumerate(self.button_names):
++            button = customtkinter.CTkButton(self, text=name, height=60, width=100, fg_color="transparent", border_color=option_button_color,
++                                             border_width=4, hover_color=option_button_color, image=)
++            button.grid(row=i, column=0, sticky="w", padx=10, pady=(0,20))
++            self.buttons.append(button)
++
++
++
++
++
++class ExpenseTrackingApp(customtkinter.CTk):
++    def __init__(self):
++        super().__init__()
++        self.title('Expense Tracking')
++        self.geometry('800x600')
++        self.columnconfigure(0, weight=1)
++        self.rowconfigure(0, weight=1)
++
++        options_frame = customtkinter.CTkFrame(self, fg_color=primary_color)
++        options_frame.grid(row=0, column=0, sticky="nsw", padx=10, pady=10)
++        self.options_button_frame = OptionsButtonFrame(options_frame, ["Accounts", "Debts", "Economy"])
++        self.options_button_frame.grid(row=0, column=0, sticky="nsew", pady=(20,10))
++
++app = ExpenseTrackingApp()
++app.mainloop()
++
